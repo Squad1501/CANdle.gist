@@ -123,7 +123,7 @@ import com.ctre.phoenix.led.TwinkleAnimation.TwinklePercent;
 import com.ctre.phoenix.led.TwinkleOffAnimation.TwinkleOffPercent;
 import com.ctre.phoenix.led.FireAnimation;
 
-    </details>
+    //</details>
 
 ```java
 public class CANdleSystem extends SubsystemBase {
