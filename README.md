@@ -125,9 +125,6 @@ import com.ctre.phoenix.led.FireAnimation;
 
 </details>
 
-<details>
-<summary>Public class CANdleSystem</summary>
-
 ```java
 public class CANdleSystem extends SubsystemBase {
     private final CANdle m_candle = new CANdle(Constants.CANdleID, "canivore");
